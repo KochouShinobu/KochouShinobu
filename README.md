@@ -3,6 +3,8 @@
 <!--
 **KochouShinobu/KochouShinobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 Here are some ideas to get you started:
 
 
