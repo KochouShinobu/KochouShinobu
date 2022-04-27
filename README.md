@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on Intelligent voice customer service
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:KochouShinobu?theme=rule34">
 
-## 前端工程师—天平
+## Introduction
 
-热爱前端、热爱技术。工作经验9个月。喜欢参与一些开源项目的讨论。
+Like playing basketball🏀, like video games🎮
+
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 30 篇技术文章，7万阅读
+-   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>
 
 ### **技术栈:**
 
@@ -35,11 +36,6 @@ Here are some ideas to get you started:
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
-
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
-<br><br><br>
 
 ### Github 活跃度
 
